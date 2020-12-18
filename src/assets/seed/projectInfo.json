@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Fitness Tracker",
+        "image": "./images/project2.png",
+        "alt": "workout tracker",
+        "url": "https://melanietorres425.github.io/WorkoutTracker/",
+        "github" : "https://github.com/MelanieTorres425/WorkoutTracker",
+        "information": "An app created to create and save new workouts."
+    },
+    
+    {
+        "name": "Employee Directory",
+        "image": "./images/workSchedule.png",
+        "alt": "employee directory",
+        "url": "https://melanietorres425.github.io/EmployeeDirectory/",
+        "github" : "https://github.com/MelanieTorres425/EmployeeDirectory",
+        "information": "A React project to be able to sort and filter through employees and show visually in real-time"
+    },
+    {
+        "name": "Night Owl",
+        "image": "./images/userDirectory.png",
+        "alt": "Night Owl",
+        "url": "https://night-owl99.herokuapp.com/",
+        "github" : "https://snw380.github.io/NightOwlReact/",
+        "information": "An app created to hold and modify gameplay and spots."
+    }
+]
